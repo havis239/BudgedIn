@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="BudgedIn maskable icon">
+  <rect width="512" height="512" rx="96" fill="#22C55E"/>
+  <circle cx="256" cy="256" r="146" fill="#F8FAFC" opacity="0.18"/>
+  <path d="M140 264c0-63 50-110 117-110 35 0 66 12 88 34l-36 36c-13-12-30-18-48-18-35 0-60 24-60 58 0 35 25 59 60 59 18 0 35-6 48-18l36 36c-22 22-53 34-88 34-67 0-117-47-117-111Z" fill="#FFFFFF"/>
+</svg>
